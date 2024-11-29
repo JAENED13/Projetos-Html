@@ -1,0 +1,49 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+          
+
+    <title>"Funcionalidades HTML "</title>
+</head>
+<body style="background-color:rgb(156, 218, 237); 
+     <img src=""C:\Users\jailton.aguiar\Documents\Html\index\download.jpg" alt="Html">
+     <strong>
+        
+        </strong><h1 style="text-align: center;color: rgb(15, 40, 3);"><strong><font size="5">"As funcionalidades da linguagem de marcacao HTML "</font></strong></h1>
+<hr>
+
+<h3> <i> <u>Explicando a tag head</u></i> </h3>
+
+<p> A tag <mark>head</mark> é uma seção essencial do documento HTML onde você pode incluir metadados e links para 
+    recursos externos que a página web precisa. Alguns elementos que podem estar 
+    dentro da tag head, como por exemplo:
+    </p><ul><li>o titulo da pagina que você definiu.</li></ul> 
+<p></p>
+    <h3><i><u>Explicando a tag body</u> </i></h3>
+    <p>A tag <mark>body </mark> é um dos elementos mais importantes de um documento HTML, 
+        pois contém todo o conteúdo visível da página web que será renderizado
+        pelo navegador. Aqui está uma visão geral do que a tag body envolve:
+        </p><ol> 
+        <li> Estrutura Principal do Conteúdo: Todo o texto, imagens, 
+        vídeos, formulários e outros elementos que os usuários 
+        verão na página são colocados dentro da tag body.</li> 
+        <li>Elementos de Layout: Pode conter tags de estruturação 
+        como header, foote, section, article, e div, 
+        que ajudam a organizar o conteúdo de maneira lógica e estilística.</li>. 
+        </ol>
+        <h3> <i><u>Explicando a tag h1 até h6</u></i> </h3>
+        <p>As tags <mark>h1 a h6 </mark>são usadas em HTML para definir cabeçalhos, 
+        com h1 sendo o mais importante e h6 o menos importante. 
+        Elas ajudam a estruturar o conteúdo da página.
+    </p>
+<p>Veja abaixo o site para maiores informações sobre o html.
+    <ul><a href="https://www.dio.me/technologies/html", target="_blank"> Dio.me</a></ul>
+</p>
+<p>Veja abaixo como fazer um curso de programação na Dio.me.
+    <ul><a href="https://www.youtube.com/watch?v=3wxtRsB0FuQ", target="_blank"> Video Dio.me</a></ul>
+   
+<P><blockquote>Citação inspiradora:
+    O que diremos, então, sobre essas coisas? Se Deus é por nós, quem será contra nós?</P><abbr title="Romanos 8:31">'Romanos 8:31'</abbr>
+</blockquote>
+<small>copyrwrite@html</small>
+
+
+</body></html>
