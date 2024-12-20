@@ -8,7 +8,6 @@ Imagens :<img>
 Ligações :<a>
 Citações : <blockquote>,<abbr>
 Rodapé :<small>
-Esses recursos ajudam a criar uma página bem estruturada, com conteúdo textual organizado, links interativos e adicionais. Algumas melhorias podem ser feitas, como substituir o uso da tag<font>por CSS
 
 
 
